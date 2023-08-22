@@ -1,7 +1,7 @@
 #define _CRTDBG_MAP_ALLOC
 #include <crtdbg.h>
 #include <iostream>
-#include "Entry.h"
+#include "entry.h"
 
 int main()
 {
