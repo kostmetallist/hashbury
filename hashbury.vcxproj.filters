@@ -21,9 +21,15 @@
     <ClCompile Include="entry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hashmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="entry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hashmap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
